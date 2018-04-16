@@ -1,0 +1,19 @@
+
+
+@pageBackground      : #F7F7F7;
+@pageOverflowX       : hidden;
+
+@fontSize            : 119px;
+@lineHeight          : 1.33;
+@textColor           : rgba(0, 200, 0, 0.8);
+
+@headerMargin        : 1em 0em 1rem;
+@paragraphMargin     : 0em 0em 1em;
+
+@linkColor           : #009FDA;
+@linkUnderline       : none;
+@linkHoverColor      : lighten( @linkColor, 5);
+
+@highlightBackground : rgba(255, 255, 160, 0.4);
+@highlightColor      : @textColor;
+@input      : 'github';
